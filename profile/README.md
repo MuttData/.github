@@ -5,7 +5,7 @@
 
 Mutt Data is a technology company that helps startups and big companies build and implement Machine Learning solutions that drive real business results. We guide companies into an AI-fueled future by building Modern Data Systems 🤖.
 
-We Are Astronomer & Amazon Consulting Partners.
+We are Amazon Advanced Consulting, Google Cloud Service, Astornomer, Kaszek, and Product Minds Partners.
 
 Composed by computer scientists, engineers, mathematicians, economists, but above all *we are Data Nerds* 🤓.
 
