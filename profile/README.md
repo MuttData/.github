@@ -1,6 +1,6 @@
 ## Hi there 👋  Get to know us 😄
 
-![AMD-2023](amd-2023.jpg)
+![AMD-2023](https://user-images.githubusercontent.com/12360699/235992019-366b058c-b0c2-439a-83be-0d8590dd44d9.jpg)
 
 
 Mutt Data is a technology company that helps startups and big companies build and implement Machine Learning solutions that drive real business results. We guide companies into an AI-fueled future by building Modern Data Systems 🤖.
